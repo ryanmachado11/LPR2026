@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR\\Aula2\\ex1\\exercicio1\\exercicio1.csproj": {}
+    "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR2026\\Aula2\\ex1\\exercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR\\Aula2\\ex1\\exercicio1\\exercicio1.csproj": {
+    "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR2026\\Aula2\\ex1\\exercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR\\Aula2\\ex1\\exercicio1\\exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR2026\\Aula2\\ex1\\exercicio1\\exercicio1.csproj",
         "projectName": "exercicio1",
-        "projectPath": "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR\\Aula2\\ex1\\exercicio1\\exercicio1.csproj",
+        "projectPath": "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR2026\\Aula2\\ex1\\exercicio1\\exercicio1.csproj",
         "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR\\Aula2\\ex1\\exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\Ryan\\Downloads\\ete2026\\LPR2026\\Aula2\\ex1\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
