@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\bin\Debug\net9.0\Ex1.exe
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\bin\Debug\net9.0\Ex1.deps.json
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\bin\Debug\net9.0\Ex1.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\bin\Debug\net9.0\Ex1.dll
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\bin\Debug\net9.0\Ex1.pdb
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.sourcelink.json
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.dll
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\refint\Ex1.dll
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.pdb
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\Ex1.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR2026\Aula7\Ex1\obj\Debug\net9.0\ref\Ex1.dll
