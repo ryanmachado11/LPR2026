@@ -10,6 +10,19 @@ Aqui você encontrará os exercícios, projetos práticos e demais atividades re
 
 ---
 
+## 📖 Conteúdo Aprendido por Aula
+
+| Aula | Conteúdo Principal |
+| :---: | :--- |
+| **02** | Introdução à lógica de programação |
+| **03** | GitHub e controle de versionamento |
+| **04** | Estruturas de seleção |
+| **05** | Estruturas de repetição |
+| **06** | Funções |
+| **07** | Variáveis compostas homogêneas (vetores e matrizes) |
+
+---
+
 ## 🛠️ Tecnologias
 
 As tecnologias utilizadas serão atualizadas conforme o avanço do curso.
