@@ -20,6 +20,7 @@ Aqui você encontrará os exercícios, projetos práticos e demais atividades re
 | **05** | Estruturas de repetição |
 | **06** | Funções |
 | **07** | Variáveis compostas homogêneas (vetores e matrizes) |
+| **08** | Variáveis compostas heterogêneas (Registros/Structs) |
 
 ---
 
