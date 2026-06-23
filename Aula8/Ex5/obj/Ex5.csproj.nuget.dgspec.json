@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula8\\ex5\\Ex5.csproj": {}
+    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex5\\Ex5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula8\\ex5\\Ex5.csproj": {
+    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex5\\Ex5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula8\\ex5\\Ex5.csproj",
+        "projectUniqueName": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex5\\Ex5.csproj",
         "projectName": "Ex5",
-        "projectPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula8\\ex5\\Ex5.csproj",
+        "projectPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex5\\Ex5.csproj",
         "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula8\\ex5\\obj\\",
+        "outputPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

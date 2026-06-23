@@ -1,4 +1,3 @@
-```md
 # 📂 Aula 08: Structs (Registros)
 
 Este diretório contém os exercícios práticos desenvolvidos para exercitar a utilização de structs (registros) como forma de organizar e representar entidades compostas por diferentes tipos de dados. Os exercícios foram resolvidos utilizando as linguagens C# e C++.
@@ -167,4 +166,3 @@ Exibe:
 ## 🎯 Objetivo da Aula
 
 Compreender e utilizar structs (registros) para representar entidades compostas por diferentes tipos de dados, organizando informações relacionadas em uma única estrutura e aplicando esse conceito na resolução de problemas utilizando vetores e funções.
-```

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj": {}
+    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj": {
+    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj",
+        "projectUniqueName": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj",
         "projectName": "Ex4",
-        "projectPath": "c:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj",
+        "projectPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\Ex4.csproj",
         "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\obj\\",
+        "outputPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula8\\Ex4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config"
