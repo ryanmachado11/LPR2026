@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula9\\ex2\\Ex2.csproj": {}
+    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula9\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula9\\ex2\\Ex2.csproj": {
+    "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula9\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula9\\ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula9\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula9\\ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula9\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\aula9\\ex2\\obj\\",
+        "outputPath": "C:\\Users\\ryanm\\Downloads\\ete2026\\LPR2026\\Aula9\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config"
