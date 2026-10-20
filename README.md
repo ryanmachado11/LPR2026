@@ -21,6 +21,8 @@ Aqui você encontrará os exercícios, projetos práticos e demais atividades re
 | **06** | Funções |
 | **07** | Variáveis compostas homogêneas (vetores e matrizes) |
 | **08** | Variáveis compostas heterogêneas (Registros/Structs) |
+| **09** | Estrutura de dados avançadas (Listas e Dicionários) |
+| **10** | Programação Orientada a Objetos |
 
 ---
 
