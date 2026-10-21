@@ -27,13 +27,12 @@
         {
             Console.WriteLine("Insira a altura do retângulo:");
             double altura = double.Parse(Console.ReadLine());
+
             Console.WriteLine("Insira a largura do retângulo:");
             double largura = double.Parse(Console.ReadLine());
 
             Retangulo retangulo1 = new Retangulo(altura, largura);
             Console.WriteLine("A área do retângulo é: {0}, e seu perímetro é: {1}", retangulo1.calcArea(), retangulo1.calcPerimetro());
-
         }
     }
-
 }
